@@ -1,0 +1,130 @@
+.header{
+    background-color:#3b5998; 
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0px;
+   font-family: Helvetica Neue,Helvatica,Arial, Helvetica, sans-serif;
+}
+.logo-header{   
+    width: 50%; 
+    padding-top: 32px; 
+    float: left;      
+}
+.login-header{
+    width: 40%;
+    float: left;     
+}
+.logo-text{
+    color: #FFF;
+    font-size: 49px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue,Helvatica,Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: #FFF;
+    font-size: 11px;
+}
+.login-controle{
+    padding-top: 10px;
+    margin-left: 115px;
+}
+.forgot-label{
+    font-size: 11px;
+    color: #9cb4d8;
+    text-decoration: none;
+}
+.submit-butten{
+    background-color: #4267b2;
+    border-color: #29487d;
+    color: #FFF;
+    height: 20px;
+    cursor: pointer;
+}
+.submit-butten:hover{
+    background-color: #1c3c72;
+}
+.main-body{
+    background: linear-gradient(white,#D3D8E3);
+    width: 100%; 
+    height: 630px;
+}
+.image1{
+    width: 500px;
+}
+.left-section{
+    width: 43%;
+    float: left;
+    padding-left: 200px;
+    padding-top: 40px;
+}
+.righr-section{
+    width: 40%;
+    float: left;
+}
+.paragraph-M{
+    color: #08204a;
+    font-weight: bold;
+    font-size: 25px;
+}
+.headline{
+    font-size: 40px;
+}
+.emailbox{
+    margin-top: 20px;
+    width: 348px;
+    padding: 8px;  
+    font-size: 15px; 
+    border-radius: 3px;
+}
+.namebox{
+    font-size: 15px;
+    padding: 8px; 
+    border-radius: 3px;
+}
+.day{
+    width: 60px;
+    border-radius: 3px;
+}
+.paragraph2{
+    font-size: 10px;
+    width: 250px;
+    color: gray;
+}
+.signup-butten{
+    background-color: rgb(2, 129, 2);
+    color: #D3D8E3;
+    font-size: 15px;
+    font-weight: bold;
+    width: 150px;
+    border-radius: 5px;
+    height: 30px;
+}
+.form3{
+    color: gray;
+    font-weight: bold;
+
+}
+.creatpage{
+    color: #29487d;
+    font-weight: bold;
+    text-decoration: none;
+}
+.Terms{
+text-decoration: none;
+color: #3b5998;
+font-weight: bold;
+}
+.Policy{
+    text-decoration: none;
+    color: #3b5998;
+    font-weight: bold;
+}
+.Cookies{
+    text-decoration: none;
+    color: #3b5998;
+    font-weight: bold;
+}
